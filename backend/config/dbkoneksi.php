@@ -1,6 +1,6 @@
 <?php 
   $host = 'localhost';
-  $db = 'db_fari22121si';
+  $db = 'db_uts_pw2';
   $user = 'fari22121si';
   $pass = '18060110122121';
   $charset='utf8mb4';

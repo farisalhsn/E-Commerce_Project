@@ -1,9 +1,9 @@
 <?php 
   $host = 'localhost';
-  $user = 'root';
-  $pass = '';
+  $db = 'db_fari22121si';
+  $user = 'fari22121si';
+  $pass = '18060110122121';
   $charset='utf8mb4';
-  $db = 'db_uts_pw2';
 
   $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
